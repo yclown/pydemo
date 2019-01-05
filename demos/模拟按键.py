@@ -14,4 +14,4 @@ k.tap_key(k.function_keys[5])  # 点击功能键F5
 # 例如同时按alt+tab键盘
 k.press_key(k.alt_key)  # 按住alt键
 k.tap_key(k.tab_key)  # 点击tab键
-k.release_key(k.alt_key)  # 松开alt键
+k.release_key(k.alt_key)  # 松开alt键H
